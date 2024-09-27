@@ -1,0 +1,26 @@
+form {
+    text-align: center;
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(226, 148, 93);
+    border-color: rgb(23, 22, 22);
+    border-width: 5px;
+}
+
+h1 {
+    color: rgb(210, 17, 81);
+}
+
+body {
+    justify-content: center;
+}
+
+#btn {
+    color: rgb(77, 5, 29);
+    background-color: rgb(241, 176, 198);
+    height: 30px;
+    width: 60px;
+    align-self: center;
+    margin-top: 20px;
+}
